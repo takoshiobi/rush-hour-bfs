@@ -25,8 +25,8 @@ GUI version
 $ python3 src/gui.py boards/beginner1.txt
 ```
 
-Possible boards
-===============
+Boards
+======
 
 1) beginner1.txt
 2) beginner2.txt
