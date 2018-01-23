@@ -73,7 +73,5 @@ $ python3 -m cProfile src/MainGUI.py boards/expert1.txt
 *Maintainability : Codeclimate*
 ![CODECLIMATE](https://pp.userapi.com/c841325/v841325491/5bb29/V0gcyED745g.jpg)
 
-#### About BFS algorithm
-
 
 
