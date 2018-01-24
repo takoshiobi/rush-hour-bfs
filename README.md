@@ -78,12 +78,16 @@ $ python3 -m cProfile src/MainGUI.py boards/expert1.txt
 
 | **Maintainability** | **Lines of code** | **File** |
 |:-------|:--------------------------------|:--------------------------|
-| **A**   | 155                     | [`conf.py`][logic]              |
-| **A**   | 54                      | [`Car.py`][logic]                |
+| **A**   | 155                     | [`Board.py`][board]              |
+| **A**   | 54                      | [`Car.py`][car]                |
 | **A**   | 46                      | [`Main.py`][main]                |
-| **C**   | 109                     | [`MainGUI.py`][main]             |
-| **A**   | 79                      | [`Solver.py`][logic]             |
+| **C**   | 109                     | [`MainGUI.py`][mainGUI]             |
+| **A**   | 79                      | [`Solver.py`][solver]             |
 
 
-
-
+<!---Reference Links-->
+[board]:../master/src/Board.py
+[car]:../master/src/Car.py
+[main]:../master/src/Main.py
+[mainGUI]:../master/src/MainGUI.py
+[solver]:../master/src/Solver.py
