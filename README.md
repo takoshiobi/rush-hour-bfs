@@ -76,4 +76,14 @@ $ python3 -m cProfile src/MainGUI.py boards/expert1.txt
 ![CODECLIMATE](https://pp.userapi.com/c841325/v841325491/5bb29/V0gcyED745g.jpg)
 
 
+| **Maintainability** | **Lines of code** | **File** |
+|:-------|:--------------------------------|:--------------------------|
+| **A**   | 155                     | [`Board.py`][logic]              |
+| **A**   | 54                      | [`Car.py`][logic]                |
+| **A**   | 46                      | [`Main.py`][main]                |
+| **C**   | 109                     | [`MainGUI.py`][main]             |
+| **A**   | 79                      | [`Solver.py`][logic]             |
+
+
+
 
