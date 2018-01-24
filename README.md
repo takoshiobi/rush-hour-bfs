@@ -78,7 +78,7 @@ $ python3 -m cProfile src/MainGUI.py boards/expert1.txt
 
 | **Maintainability** | **Lines of code** | **File** |
 |:-------|:--------------------------------|:--------------------------|
-| **A**   | 155                     | [`src/Board.py`][logic]              |
+| **A**   | 155                     | [`conf.py`][logic]              |
 | **A**   | 54                      | [`Car.py`][logic]                |
 | **A**   | 46                      | [`Main.py`][main]                |
 | **C**   | 109                     | [`MainGUI.py`][main]             |
