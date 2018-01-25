@@ -41,7 +41,7 @@ $ python3 src/MainGUI.py boards/beginner1.txt
 ![GUI](https://pp.userapi.com/c841325/v841325491/5bb18/pHbRsFIB9Uc.jpg)
 ![GUI](https://pp.userapi.com/c841325/v841325491/5bb20/EbJxGP95rVw.jpg)
 
-#### Execution time
+## Execution time
 
 *Main.py*
 ---------
