@@ -1,9 +1,9 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/faa6e65de2852bf0e795/maintainability)](https://codeclimate.com/github/akinariobi/rush-hour-bfs/maintainability)
 [![Python](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/release/python-350/)
 
-### A program for solving the Rush Hour game using BFS
+# A program for solving the Rush Hour game using BFS
 
-#### Run Code 
+## Run Code 
 
 **Terminal**
 
