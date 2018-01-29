@@ -43,8 +43,8 @@ $ python3 src/MainGUI.py boards/beginner1.txt
 
 ## Execution time
 
-*Main.py*
----------
+##### Main.py
+
 **Level : Beginner**
 ```
 $ python3 -m cProfile src/Main.py boards/beginner1.txt
@@ -57,8 +57,8 @@ $ python3 -m cProfile src/Main.py boards/expert1.txt
 ...
 115822933 function calls (98233315 primitive calls) in 61.892 seconds
 ```
-*MainGUI.py*
-------------
+##### MainGUI.py
+
 **Level : Beginner**
 ```
 $ python3 -m cProfile src/MainGUI.py boards/beginner1.txt
