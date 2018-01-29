@@ -55,9 +55,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = "Module Rush Hour"
-copyright = "2017, SOFIANE BENAZZOUZ et SHCHERBAKOVA IULIIA, Univ. Lille1"
-author = "SOFIANE BENAZZOUZ et SHCHERBAKOVA IULIIA"
+project = "Rush Hour"
+copyright = "2017 SHCHERBAKOVA IULIIA"
+author = "SHCHERBAKOVA IULIIA"
 
 
 
